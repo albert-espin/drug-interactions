@@ -1,5 +1,7 @@
 # Extraction of Drug-Drug Interactions from Biomedical Texts
 
+## Abstract
+
 Two common challenges in the field of Natural Language Processing applied to biomedical texts are the recognition and classification of Drug Name Entities and the detection and classification of Drug-Drug Interactions (DDI). A specific competition to solve these two problems was proposed in SemEval 2013 Task 9.
 
 This work explains new models developed to approach these tasks, starting with baseline rule-based algorithms that are outperformed by later machine learning systems. A CRF model is used for Drug Name Entity recognition and classification. This model integrates features such as word shapes and clusters of word embeddings. A macro-average test F1-score of 0.74 is
