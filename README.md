@@ -12,3 +12,10 @@ An Ensemble of Deep Neural Networks is used to solve the DDI detection and class
 | **Authors** | Albert Espín and Lavanya Mandadapu |
 | **Date**  | February-May 2019  |
 | **Report license**  | Creative Commons Attribution, Non-Commercial, Non-Derivative |
+
+
+## Best Neural Architecture
+
+See the report for more details on all the tested models.
+
+![](neural_architecture.png)
