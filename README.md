@@ -16,6 +16,6 @@ An Ensemble of Deep Neural Networks is used to solve the DDI detection and class
 
 ## Best Neural Architecture
 
-See the report for more details on all the tested models.
+The neural model in the image achieves 0.60 F1 for Task 9.2, and is part of the final ensemble that reaches 0.64 F1. See the report for more details on all the tested models, including the CRF model of Task 9.1.
 
 ![](neural_architecture.png)
